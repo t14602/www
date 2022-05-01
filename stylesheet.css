@@ -4,6 +4,7 @@ body{
 }
 
 .header {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
   background-color: #f7f2b4;
   height: 90px;
 }
