@@ -30,11 +30,15 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 100px;
+  padding: 10px;
+  margin: 10px;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 40px;
+  padding: 10px;
+  margin: 10px;
 }
 
 .copy-container span {
