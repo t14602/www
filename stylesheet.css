@@ -7,16 +7,20 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 li {
   list-style: none;
   float:left;
-}
-
-.header-logo{
-  font-size:36px;
-  float:left;
+  padding: 33px 20px;
 }
 
 .header {
-  background-color: #f7f2b4;
+  background-color: #26d0c9;
+  color: #fff;
   height: 90px;
+}
+
+.header-logo{
+  float: left;
+  font-size: 36px;
+  /* 上下のpaddingを20px、左右のpaddingを40px */
+  padding: 20px 40px;
 }
 
 .main {
