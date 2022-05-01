@@ -42,6 +42,26 @@ li {
 }
 
 .footer {
-  background-color: #ceccf3;
-  height: 270px;
+  background-color: #2f5167;
+  /* colorを#fff */
+  color: #fff;
+  /* heightを120px */
+  height: 120px;
+  /* 上下左右のpaddingを40px */
+  padding: 40px;
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+/* footer-listのfloatを指定 */
+.footer-list {
+  float: right;
+}
+
+/* footer-listの中のli要素のpadding-bottomを指定 */
+.footer-list li {
+  padding-bottom: 20px;
 }
