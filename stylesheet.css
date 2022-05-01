@@ -6,7 +6,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 li {
   list-style: none;
-  float:left;
+  float: left;
+  /* 上下のpaddingを33px、左右のpaddingを20px */
   padding: 33px 20px;
 }
 
