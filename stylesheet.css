@@ -12,9 +12,10 @@ body{
 
 li {
   list-style: none;
-  float: left;
+<!--  float: left;
   /* 上下のpaddingを33px、左右のpaddingを20px */
   padding: 33px 20px;
+-->
 }
 
 .header {
@@ -28,6 +29,11 @@ li {
   font-size: 36px;
   /* 上下のpaddingを20px、左右のpaddingを40px */
   padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
 }
 
 .main {
